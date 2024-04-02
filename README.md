@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### I am a passionate person who likes to explore new technologies.
-### Interests are : AWS, Docker, K8s and DevOps tools and tech
+### Interests are: AWS, Docker, K8s, DevOps tools/tech. 
 
 <!--
 **niranjanh123/niranjanh123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
